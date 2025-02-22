@@ -4,11 +4,11 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 
-**由 DeepSeek 写的 **AI 对话系统前端实现，基于 Ollama 本地大模型部署，支持流式对话、Markdown 渲染和上下文管理。
+**由 DeepSeek 写的** AI 对话系统前端实现，基于 Ollama 本地大模型部署，支持流式对话、Markdown 渲染和上下文管理。
 
 > **你看到的这个 `Readme.md` 也是 DeepSeek 生成的**
 
-![img](file:///D:/code/tinydeepseekui/assets/demo.gif)
+![img](assets/demo.gif)
 
 ## ✨ 核心功能
 
@@ -71,15 +71,15 @@ const MODEL_CONFIG = {
 
 - 引导 DeepSeek 写一个 AI 对话页面
 
-![deepseekGen1](D:\code\tinydeepseekui\assets\deepseekGen1.png)
+![deepseekGen1](assets/deepseekGen1.png)
 
 - 引导 DeepSeek 自己优化代码
 
-  ![deekseekReCode](D:\code\tinydeepseekui\assets\deekseekReCode.png)
+  ![deekseekReCode](assets/deekseekReCode.png)
 
 - 引导 DeepSeek 创建 Github 相关工程与文件
 
-![genGitHub](D:\code\tinydeepseekui\assets\genGitHub.png)
+![genGitHub](assets\genGitHub.png)
 
 ## 🤝 贡献指南
 欢迎通过 Issue 和 PR 参与贡献，请遵循以下步骤：
